@@ -1,3 +1,5 @@
+// Find the largest value from the given array
+
 class Code22FindLargest {
  public static void main(String[] args){
   int[] numArray = {34,56,3,4,55,6};
@@ -12,3 +14,10 @@ class Code22FindLargest {
    System.out.println("largest element = :" + largest);
  }
 }
+
+
+/* Output
+
+ largest element = :56
+
+ */
